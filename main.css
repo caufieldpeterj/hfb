@@ -4,8 +4,8 @@
 body {
   margin-top:20px;
   font-family: Osaka;
-  background-color: ghostwhite;
-  color: inherit;
+  background-color: black;
+  color: dodgerblue;
 }
 
 h2, h3, h5 {
@@ -39,8 +39,8 @@ a {
 *   Happy Fun Ball
 *****************************************/
 #happy-fun-ball {
-  min-width: 20vmax;
-  height: 20vmax;
+  min-width: 10vmax;
+  height: 10vmax;
   border-radius:100%;
   background-color: #FF8E00;
   text-align: left;
@@ -70,12 +70,12 @@ h1 {
   vertical-align: center;
   font-family: 'Marker Felt';
   position: absolute;
-  left: 35vmax;
-  top: 25px;
-  font-size: 8vmax;
+  left: 33vmax;
+  top: 5px;
+  font-size: 5vmax;
   text-align: left;
 }
 
 .price {
-  color: orange;
+  color: gray;
 }
